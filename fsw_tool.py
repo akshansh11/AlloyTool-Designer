@@ -49,5 +49,3 @@ if st.button("Calculate"):
     st.write(f"**Pin Diameter:** {pin_diameter:.2f} mm")
     st.write(f"**Pin Length:** {pin_length:.2f} mm")
 
-if __name__ == "__main__":
-    main()
