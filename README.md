@@ -5,4 +5,7 @@ The objective of the AlloyTool Designer app is to provide a precise and user-fri
 
 App link: https://alloytool-designer-kxqjyne3quohkshx3ghu3e.streamlit.app/
 
+Reference paper used for developing the app: Hoyos, Elizabeth, and María Camila Serna. 2021. "Basic Tool Design Guidelines for Friction Stir Welding of Aluminum Alloys" Metals 11, no. 12: 2042. https://doi.org/10.3390/met11122042
+
+
 
