@@ -1,1 +1,4 @@
 # AlloyTool-Designer
+![Untitled design (1)](https://github.com/akshansh11/AlloyTool-Designer/assets/47514698/4cfc0cc1-d0d4-4722-a6cb-b89698c4d94d)
+
+The objective of the AlloyTool Designer app is to provide a precise and user-friendly tool for engineers and designers working with aluminum alloy series. This application aims to simplify the complex calculations required for designing precision tools by offering an intuitive interface where users can input specific parameters, such as alloy series and material thickness. The app calculates essential tool dimensions, such as shoulder diameter, pin diameter, and pin length, using well-established equations specific to various aluminum alloy series.This functionality not only enhances accuracy but also significantly reduces the time and effort involved in the design process, ultimately contributing to improved efficiency and effectiveness in manufacturing and engineering tasks.
