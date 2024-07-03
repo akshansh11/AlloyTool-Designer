@@ -34,7 +34,7 @@ def calculate_dimensions(series, thickness):
 
 # Streamlit app
 st.title("AlloyTool Designer")
-st.image("Tool.png")
+st.image("tool.png")
 st.write("Enter the aluminum alloy series and thickness to calculate tool dimensions.")
 
 # User input
